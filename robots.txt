@@ -11,4 +11,4 @@ Disallow: /upload/
 Disallow: sppstore/
 Disallow: appstore/
 
-Sitemap: https://maxlay.github.io/sitemap.xml
+Sitemap: https://fengzhongzhuihong.github.io/sitemap.xml
